@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vedyan
 - 👀 I’m interested in ... Nothing 
 - 🌱 I’m currently learning ... Everything 
-- 💞️ I’m looking to collaborate on ... Reincarnation 
+- 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... Not Possible 
 - 😄 Pronouns: ... Nothing 
 - ⚡ Fun fact: ... thinking...
