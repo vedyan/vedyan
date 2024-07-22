@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vedyan
-- 👀 I’m interested in ... Nothing 
-- 🌱 I’m currently learning ... Everything 
-- 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... Not Possible 
+- 👋 Hi, I’m Vedant
+- 👀 I’m interested in ... Generative Ai 
+- 🌱 I’m currently learning ... RAG CI/CD AWS GENRATIVE AI
+- 💞️ I’m looking to collaborate on ... Utilised AI LLMs to solve real world problems
+- 📫 How to reach me ... mail me on vedyan.va23@gmail.com 
 - 😄 Pronouns: ... Nothing 
 - ⚡ Fun fact: ... thinking...
 
